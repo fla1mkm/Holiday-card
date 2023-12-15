@@ -1,0 +1,35 @@
+body{
+    background-color:black ;
+}
+
+.card{
+    background-image: url(./background.png);
+    width: 1230px;
+    height: 693px;
+    margin: 0 auto;
+}
+
+.holiday{
+    font-family: 'Tangerine', cursive;
+    color: #3C5947;
+    font-size: 125px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0;
+    padding-top: 170px;
+}
+
+.holiday-p{
+    color: #3C5947;
+    font-family: Zilla Slab;
+    font-size: 36px;
+    font-weight: 300;
+    padding-top:14px;
+    padding-left: 80px;
+    margin: 0 auto;
+    width: 48%;
+}
+
+.logo{
+    padding-left: 779px;
+}
